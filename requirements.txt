@@ -1,0 +1,7 @@
+requests == 2.25.1 
+mysql-connector == 2.2.9
+mysql-connector-python == 8.0.17
+salesforce-bulk == 2.2.0
+certifi == 2019.6.16
+pyopenssl
+cryptography==2.5
